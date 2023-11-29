@@ -1,6 +1,7 @@
 # hand_gesture_recogniton
 
-## Overview Sign language gesture recognition has numerous applications, from assisting individuals with hearing impairments to facilitating communication with the Deaf community. This project provides a framework to get started with sign language gesture recognition using Python.
+## Overview 
+Sign language gesture recognition has numerous applications, from assisting individuals with hearing impairments to facilitating communication with the Deaf community. This project provides a framework to get started with sign language gesture recognition using Python.
 Key features of this project:
 
 Real-time hand gesture recognition using a webcam or pre-recorded videos.
